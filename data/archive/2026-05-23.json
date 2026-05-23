@@ -1,0 +1,483 @@
+{
+  "generatedAt": "2026-05-23T12:47:46.179405+00:00",
+  "lookbackDays": 7,
+  "count": 24,
+  "sources": {
+    "pubmed": 5,
+    "trials": 19,
+    "fda": 0
+  },
+  "items": [
+    {
+      "id": "agent-ClinicalTrials.gov-1-2026-05-22",
+      "title": "Lorigerlimab With Docetaxel in Metastatic Castration-Resistant Prostate Cancer",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT05848011",
+      "date": "2026-05-22",
+      "summary": "This completed phase 2 trial tested whether adding the experimental drug lorigerlimab to standard docetaxel chemotherapy could extend the time before cancer progression in 150 men with metastatic castration-resistant prostate cancer. The study compared combination treatment to docetaxel alone, with treatments given intravenously every 3 weeks.",
+      "category": "trial",
+      "relevance": "medium",
+      "keyTerms": [
+        "lorigerlimab",
+        "docetaxel",
+        "mCRPC",
+        "phase 2",
+        "completed"
+      ],
+      "kind": "trial",
+      "status": "COMPLETED",
+      "phase": "PHASE2"
+    },
+    {
+      "id": "agent-ClinicalTrials.gov-2-2026-05-22",
+      "title": "ONC-392 Plus Lutetium-177 PSMA Therapy in Metastatic CRPC",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT05682443",
+      "date": "2026-05-22",
+      "summary": "This phase 1/2 trial combines ONC-392 with Pluvicto (lutetium-177 PSMA therapy) in men with metastatic castration-resistant prostate cancer who have PSMA-positive scans and previously received hormone therapy and up to 2 taxane chemotherapies. The study is no longer enrolling but patients are still being treated and monitored.",
+      "category": "trial",
+      "relevance": "high",
+      "keyTerms": [
+        "ONC-392",
+        "lutetium-177",
+        "PSMA",
+        "mCRPC",
+        "Pluvicto"
+      ],
+      "kind": "trial",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phase": "PHASE1, PHASE2"
+    },
+    {
+      "id": "agent-ClinicalTrials.gov-4-2026-05-22",
+      "title": "18F-DCFPyL PSMA-PET Imaging for Detecting Metastatic Prostate Cancer",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT03173924",
+      "date": "2026-05-22",
+      "summary": "This phase 2 imaging trial compares two types of PET scans to see which better detects sites of metastatic prostate cancer in the body. The experimental 18F-DCFPyL tracer targets PSMA, a protein found on prostate cancer cells. The study is no longer enrolling but continues to follow participants.",
+      "category": "biomarker",
+      "relevance": "medium",
+      "keyTerms": [
+        "18F-DCFPyL",
+        "PSMA-PET",
+        "imaging",
+        "metastatic detection"
+      ],
+      "kind": "trial",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phase": "PHASE2"
+    },
+    {
+      "id": "agent-ClinicalTrials.gov-5-2026-05-22",
+      "title": "Xaluritamig Plus Abiraterone Versus Standard Care in Metastatic CRPC",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07213674",
+      "date": "2026-05-22",
+      "summary": "This phase 3 trial is recruiting men with metastatic castration-resistant prostate cancer who haven't received chemotherapy yet. It compares overall survival between those receiving the experimental drug xaluritamig plus abiraterone versus doctor's choice of standard treatments (docetaxel, cabazitaxel, or abiraterone alone).",
+      "category": "trial",
+      "relevance": "high",
+      "keyTerms": [
+        "xaluritamig",
+        "abiraterone",
+        "mCRPC",
+        "phase 3",
+        "chemotherapy-naive"
+      ],
+      "kind": "trial",
+      "status": "RECRUITING",
+      "phase": "PHASE3"
+    },
+    {
+      "id": "agent-ClinicalTrials.gov-6-2026-05-22",
+      "title": "DS9051b in Advanced Metastatic Castration-Resistant Prostate Cancer",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07189403",
+      "date": "2026-05-22",
+      "summary": "This first-in-human phase 1 trial is testing the safety and early effectiveness of DS9051b in men with metastatic castration-resistant prostate cancer. The study is actively recruiting participants to determine the best dose and whether the drug shows promising anti-cancer activity.",
+      "category": "trial",
+      "relevance": "medium",
+      "keyTerms": [
+        "DS9051b",
+        "mCRPC",
+        "phase 1",
+        "first-in-human"
+      ],
+      "kind": "trial",
+      "status": "RECRUITING",
+      "phase": "PHASE1"
+    },
+    {
+      "id": "agent-ClinicalTrials.gov-7-2026-05-22",
+      "title": "AZD8359 STEAP2-Targeting Therapy in Metastatic Prostate Cancer",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07529717",
+      "date": "2026-05-22",
+      "summary": "This phase 1/2 trial is testing AZD8359, a drug that targets STEAP2 protein on prostate cancer cells. The study has two parts: finding the safest and most effective dose, then testing those doses in more patients. It's testing different delivery methods for this experimental treatment in men with metastatic prostate cancer.",
+      "category": "trial",
+      "relevance": "medium",
+      "keyTerms": [
+        "AZD8359",
+        "STEAP2",
+        "T-cell engager",
+        "metastatic prostate cancer"
+      ],
+      "kind": "trial",
+      "status": "RECRUITING",
+      "phase": "PHASE1, PHASE2"
+    },
+    {
+      "id": "agent-ClinicalTrials.gov-8-2026-05-22",
+      "title": "Genetic Markers Predicting Prostate Cancer Metastasis Risk",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT03421015",
+      "date": "2026-05-22",
+      "summary": "This completed study used advanced genetic sequencing to identify DNA changes in localized or locally advanced prostate cancer that predict which cancers are more likely to spread. Identifying these biomarkers could help doctors detect high-risk patients earlier and potentially reduce death rates.",
+      "category": "biomarker",
+      "relevance": "medium",
+      "keyTerms": [
+        "genomic alteration",
+        "metastatic recurrence",
+        "next-generation sequencing",
+        "biomarkers"
+      ],
+      "kind": "trial",
+      "status": "COMPLETED",
+      "phase": ""
+    },
+    {
+      "id": "agent-ClinicalTrials.gov-10-2026-05-22",
+      "title": "Ifinatamab Deruxtecan Versus Chemotherapy in Metastatic Prostate Cancer",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06925737",
+      "date": "2026-05-22",
+      "summary": "This phase 3 trial is testing whether ifinatamab deruxtecan (I-DXd), an antibody-drug conjugate, helps men with metastatic castration-resistant prostate cancer live longer than those receiving standard chemotherapy. The study is recruiting and will compare both overall survival and time to cancer progression between the two treatments.",
+      "category": "trial",
+      "relevance": "high",
+      "keyTerms": [
+        "ifinatamab deruxtecan",
+        "I-DXd",
+        "mCRPC",
+        "phase 3",
+        "ADC"
+      ],
+      "kind": "trial",
+      "status": "RECRUITING",
+      "phase": "PHASE3"
+    },
+    {
+      "id": "agent-ClinicalTrials.gov-11-2026-05-22",
+      "title": "AAA817 After Lutetium-177 PSMA Therapy Failure in Metastatic CRPC",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06780670",
+      "date": "2026-05-22",
+      "summary": "This phase 2/3 trial is recruiting men with PSMA-positive metastatic castration-resistant prostate cancer whose disease progressed despite Pluvicto (lutetium-177 PSMA) treatment. It compares the experimental drug AAA817 to standard care options, testing whether AAA817 can help when PSMA-targeted radioligand therapy stops working.",
+      "category": "trial",
+      "relevance": "high",
+      "keyTerms": [
+        "AAA817",
+        "post-PSMA therapy",
+        "mCRPC",
+        "lutetium-177",
+        "phase 2/3"
+      ],
+      "kind": "trial",
+      "status": "RECRUITING",
+      "phase": "PHASE2, PHASE3"
+    },
+    {
+      "id": "agent-ClinicalTrials.gov-13-2026-05-22",
+      "title": "FG-3246 in Metastatic Castration-Resistant Prostate Cancer",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06842498",
+      "date": "2026-05-22",
+      "summary": "This phase 2 trial is testing FG-3246, a CD46-targeting antibody-drug conjugate, in men with metastatic castration-resistant prostate cancer who received one prior androgen receptor inhibitor but no prior chemotherapy. The study evaluates safety, effectiveness, and how the drug moves through the body.",
+      "category": "trial",
+      "relevance": "medium",
+      "keyTerms": [
+        "FG-3246",
+        "CD46",
+        "ADC",
+        "mCRPC",
+        "ARSI-treated"
+      ],
+      "kind": "trial",
+      "status": "RECRUITING",
+      "phase": "PHASE2"
+    },
+    {
+      "id": "agent-ClinicalTrials.gov-14-2026-05-22",
+      "title": "Mevrometostat Plus Enzalutamide in Metastatic Hormone-Sensitive Prostate Cancer",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07028853",
+      "date": "2026-05-22",
+      "summary": "This phase 3 trial is recruiting men with metastatic castration-sensitive (hormone-sensitive) prostate cancer who haven't received hormone therapy yet. It compares combination mevrometostat plus enzalutamide to enzalutamide alone to determine if adding mevrometostat improves outcomes in this earlier stage of metastatic disease.",
+      "category": "trial",
+      "relevance": "medium",
+      "keyTerms": [
+        "mevrometostat",
+        "enzalutamide",
+        "mCSPC",
+        "phase 3",
+        "ARPI-naive"
+      ],
+      "kind": "trial",
+      "status": "RECRUITING",
+      "phase": "PHASE3"
+    },
+    {
+      "id": "agent-ClinicalTrials.gov-18-2026-05-20",
+      "title": "DS3201 and Ipilimumab in Metastatic Prostate Cancer",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT04388852",
+      "date": "2026-05-20",
+      "summary": "This phase 1b trial tested DS3201, an enzyme-blocking drug, combined with ipilimumab immunotherapy in men with metastatic prostate, urothelial, or kidney cancer. The study is no longer enrolling but continues monitoring participants to assess side effects and best dosing for this combination approach.",
+      "category": "trial",
+      "relevance": "low",
+      "keyTerms": [
+        "DS3201",
+        "ipilimumab",
+        "metastatic prostate cancer",
+        "phase 1"
+      ],
+      "kind": "trial",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phase": "PHASE1"
+    },
+    {
+      "id": "agent-ClinicalTrials.gov-21-2026-05-20",
+      "title": "Mevrometostat Plus Enzalutamide in Metastatic Castration-Resistant Prostate Cancer",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06629779",
+      "date": "2026-05-20",
+      "summary": "This phase 3 trial is recruiting men with metastatic castration-resistant prostate cancer who haven't received abiraterone or other androgen receptor inhibitors yet. It tests whether adding the experimental drug mevrometostat to enzalutamide works better than enzalutamide alone for extending survival.",
+      "category": "trial",
+      "relevance": "high",
+      "keyTerms": [
+        "mevrometostat",
+        "PF-06821497",
+        "enzalutamide",
+        "mCRPC",
+        "phase 3"
+      ],
+      "kind": "trial",
+      "status": "RECRUITING",
+      "phase": "PHASE3"
+    },
+    {
+      "id": "agent-ClinicalTrials.gov-22-2026-05-20",
+      "title": "Mevrometostat for Castration-Resistant Prostate Cancer",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT03460977",
+      "date": "2026-05-20",
+      "summary": "This phase 1 trial is testing mevrometostat safety and effects in men with castration-resistant prostate cancer who have progressed on prior treatment. Part 3 of the study examines mevrometostat alone and combined with enzalutamide, including how the drugs interact, with assessment and maintenance phases for each treatment approach.",
+      "category": "trial",
+      "relevance": "medium",
+      "keyTerms": [
+        "mevrometostat",
+        "CRPC",
+        "enzalutamide",
+        "phase 1",
+        "drug interaction"
+      ],
+      "kind": "trial",
+      "status": "RECRUITING",
+      "phase": "PHASE1"
+    },
+    {
+      "id": "agent-ClinicalTrials.gov-25-2026-05-20",
+      "title": "Olaparib With Radium-223 in Prostate Cancer With Bone Metastases",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT03317392",
+      "date": "2026-05-20",
+      "summary": "This phase 1/2 trial tests combining olaparib (a PARP inhibitor pill) with radium-223 (radioactive injection) in men with castration-resistant prostate cancer that has spread to bones and other sites. The study is no longer enrolling and aims to find the best olaparib dose that's safe when combined with radium-223.",
+      "category": "trial",
+      "relevance": "medium",
+      "keyTerms": [
+        "olaparib",
+        "radium-223",
+        "bone metastases",
+        "PARP inhibitor",
+        "mCRPC"
+      ],
+      "kind": "trial",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phase": "PHASE1, PHASE2"
+    },
+    {
+      "id": "agent-ClinicalTrials.gov-26-2026-05-20",
+      "title": "Xaluritamig Safety Trial in Metastatic Castration-Resistant Prostate Cancer",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07493512",
+      "date": "2026-05-20",
+      "summary": "This phase 1 trial is recruiting men with metastatic castration-resistant prostate cancer to evaluate the safety profile of xaluritamig at the proposed treatment regimen. The study focuses on determining how well the experimental drug is tolerated before advancing to larger effectiveness trials.",
+      "category": "trial",
+      "relevance": "medium",
+      "keyTerms": [
+        "xaluritamig",
+        "mCRPC",
+        "phase 1",
+        "safety"
+      ],
+      "kind": "trial",
+      "status": "RECRUITING",
+      "phase": "PHASE1"
+    },
+    {
+      "id": "agent-ClinicalTrials.gov-27-2026-05-20",
+      "title": "DCC-2812 in Advanced Castration-Resistant Prostate Cancer",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT06966024",
+      "date": "2026-05-20",
+      "summary": "This phase 1 trial is testing DCC-2812, a GCN2 activator, in men with advanced or metastatic castration-resistant prostate cancer, as well as kidney and bladder cancers. The study evaluates safety and early signs of effectiveness for this novel mechanism targeting cancer cell metabolism.",
+      "category": "trial",
+      "relevance": "medium",
+      "keyTerms": [
+        "DCC-2812",
+        "GCN2 activator",
+        "mCRPC",
+        "phase 1"
+      ],
+      "kind": "trial",
+      "status": "RECRUITING",
+      "phase": "PHASE1"
+    },
+    {
+      "id": "agent-ClinicalTrials.gov-28-2026-05-19",
+      "title": "Evaluating 15 Drugable Targets in Different Prostate Cancer Types",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07597369",
+      "date": "2026-05-19",
+      "summary": "This observational study is examining the expression of 15 membrane proteins that could be targeted with antibody-drug conjugates (including PSMA, B7-H3, STEAP1, TROP2, and others) across different types of prostate cancer. The study aims to validate which targets are most useful for predicting outcomes and developing personalized treatments for various prostate cancer subtypes.",
+      "category": "biomarker",
+      "relevance": "medium",
+      "keyTerms": [
+        "ADC targets",
+        "PSMA",
+        "B7-H3",
+        "biomarkers",
+        "CRPC",
+        "neuroendocrine"
+      ],
+      "kind": "trial",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phase": ""
+    },
+    {
+      "id": "agent-ClinicalTrials.gov-29-2026-05-19",
+      "title": "Radiation After Prostatectomy for Node-Positive Prostate Cancer",
+      "source": "ClinicalTrials.gov",
+      "url": "https://clinicaltrials.gov/study/NCT07477626",
+      "date": "2026-05-19",
+      "summary": "This phase 3 trial evaluated whether adding pelvic radiation to hormone therapy improves outcomes in men with prostate cancer that spread to lymph nodes discovered during prostatectomy. The study is no longer enrolling and compares combined treatment to hormone therapy alone for preventing disease progression and improving survival.",
+      "category": "trial",
+      "relevance": "low",
+      "keyTerms": [
+        "pelvic radiotherapy",
+        "node-positive",
+        "post-prostatectomy",
+        "ADT"
+      ],
+      "kind": "trial",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "phase": "PHASE3"
+    },
+    {
+      "id": "agent-European_journal_of_-32-2026_Jul_5",
+      "title": "Dual BRD4/AKT Inhibitor Overcomes Resistance in Metastatic CRPC",
+      "source": "European journal of medicinal chemistry",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41966583/",
+      "date": "2026 Jul 5",
+      "summary": "Researchers developed a new drug (compound 21d) that simultaneously blocks both BRD4 and AKT proteins to overcome c-MYC-driven resistance in metastatic castration-resistant prostate cancer. Lab studies showed this dual-targeting approach addresses a major limitation of AKT inhibitors used alone, which often stop working as cancer develops resistance through increased c-MYC expression.",
+      "category": "research",
+      "relevance": "medium",
+      "keyTerms": [
+        "BRD4",
+        "AKT inhibitor",
+        "c-MYC resistance",
+        "mCRPC",
+        "dual inhibitor"
+      ],
+      "kind": "paper",
+      "status": "",
+      "phase": ""
+    },
+    {
+      "id": "agent-International_journa-33-2026_Jul_1",
+      "title": "Drug Reimbursement and Clinical Benefit in Genitourinary Cancers Across Countries",
+      "source": "International journal of cancer",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41653082/",
+      "date": "2026 Jul 1",
+      "summary": "This study analyzed how different countries (Canada, France, England, Wales, Scotland, Spain, Italy, Portugal) make reimbursement decisions for prostate, kidney, and bladder cancer drugs between 2005-2024. Canada and France had the highest reimbursement rates for prostate cancer drugs (85%), while approval rates varied significantly across countries and cancer types.",
+      "category": "approval",
+      "relevance": "low",
+      "keyTerms": [
+        "reimbursement",
+        "drug approval",
+        "international comparison",
+        "clinical benefit"
+      ],
+      "kind": "paper",
+      "status": "",
+      "phase": ""
+    },
+    {
+      "id": "agent-The_aging_male_:_the-40-2026_Dec_3",
+      "title": "Machine Learning Model Predicts Survival in Prostate Cancer Bone Metastases",
+      "source": "The aging male : the official journal of the International Society for the Study of the Aging Male",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41839858/",
+      "date": "2026 Dec 3",
+      "summary": "Researchers developed a machine learning model using data from 3,378 prostate cancer patients with bone metastases to predict overall survival. The model identified Gleason score as the most important survival factor—more important than cancer stage—and found that visceral metastasis and advanced age also significantly increase mortality risk.",
+      "category": "biomarker",
+      "relevance": "low",
+      "keyTerms": [
+        "machine learning",
+        "bone metastases",
+        "Gleason score",
+        "prognosis",
+        "survival prediction"
+      ],
+      "kind": "paper",
+      "status": "",
+      "phase": ""
+    },
+    {
+      "id": "agent-Human_vaccines_&_imm-42-2026_Dec",
+      "title": "Meta-Analysis of Immune Checkpoint Inhibitors in Metastatic CRPC",
+      "source": "Human vaccines & immunotherapeutics",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41672480/",
+      "date": "2026 Dec",
+      "summary": "This comprehensive analysis of 1,580 patients from 21 clinical trials found that immune checkpoint inhibitors in unselected metastatic castration-resistant prostate cancer showed modest results: 63% one-year survival and 41% six-month progression-free rate. Combining immunotherapy with other treatments showed better outcomes than immunotherapy alone or dual immunotherapy approaches.",
+      "category": "research",
+      "relevance": "medium",
+      "keyTerms": [
+        "immune checkpoint inhibitors",
+        "mCRPC",
+        "meta-analysis",
+        "combination therapy"
+      ],
+      "kind": "paper",
+      "status": "",
+      "phase": ""
+    },
+    {
+      "id": "agent-Bone-44-2026_Aug",
+      "title": "Zoledronic Acid Protects Bone Health During Enzalutamide Plus ADT",
+      "source": "Bone",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42035902/",
+      "date": "2026 Aug",
+      "summary": "The BonEnza trial found that metastatic hormone-sensitive prostate cancer patients receiving androgen deprivation therapy plus enzalutamide experienced significant bone mineral density loss at the femoral neck and lumbar spine after 18 months. However, adding zoledronic acid (a bone-protecting drug) prevented this bone loss and improved bone quality markers.",
+      "category": "supportive_care",
+      "relevance": "medium",
+      "keyTerms": [
+        "zoledronic acid",
+        "bone health",
+        "enzalutamide",
+        "ADT",
+        "bone mineral density"
+      ],
+      "kind": "paper",
+      "status": "",
+      "phase": ""
+    }
+  ]
+}
